@@ -72,6 +72,8 @@ This project implements a Retrieval-Augmented Generation (RAG) approach to creat
 ![alt text](image.png)
 
 ## Documentation
-GitHub Link:
+GitHub Link: 
+https://github.com/YinYinPhyo/RAG-Chat-Customer-Support-System
 
 Presentation Slide:
+https://drive.google.com/file/d/1dWQZFkNbpjyR9evyn_rUEmIfRWav97cU/view?usp=sharing
